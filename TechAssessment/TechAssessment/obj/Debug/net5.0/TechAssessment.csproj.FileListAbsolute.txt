@@ -1,0 +1,302 @@
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\appsettings.Development.json
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\appsettings.json
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.exe
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.deps.json
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.runtimeconfig.json
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.runtimeconfig.dev.json
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.pdb
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Humanizer.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.csproj.AssemblyReference.cache
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.AssemblyInfoInputs.cache
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.AssemblyInfo.cs
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.csproj.CoreCompileInputs.cache
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\scopedcss\bundle\TechAssessment.styles.css
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\staticwebassets\TechAssessment.StaticWebAssets.Manifest.cache
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.RazorTargetAssemblyInfo.cache
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.csproj.CopyComplete
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\refint\TechAssessment.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.pdb
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.genruntimeconfig.cache
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\obj\Debug\net5.0\ref\TechAssessment.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Namotion.Reflection.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\NJsonSchema.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.Annotations.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.AspNetCore.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.Core.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.Generation.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\YamlDotNet.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Castle.Core.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ITI master\Portfolio\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\appsettings.json
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.exe
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.deps.json
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.runtimeconfig.json
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.runtimeconfig.dev.json
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\TechAssessment.pdb
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Humanizer.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Namotion.Reflection.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\NJsonSchema.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\NJsonSchema.Yaml.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.Annotations.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.AspNetCore.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.Core.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.Core.Yaml.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.Generation.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\NSwag.Generation.AspNetCore.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\YamlDotNet.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.csproj.AssemblyReference.cache
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.AssemblyInfoInputs.cache
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.AssemblyInfo.cs
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.csproj.CoreCompileInputs.cache
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\scopedcss\bundle\TechAssessment.styles.css
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\staticwebassets\TechAssessment.StaticWebAssets.Manifest.cache
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.RazorTargetAssemblyInfo.cache
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.csproj.CopyComplete
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\refint\TechAssessment.dll
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.pdb
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\TechAssessment.genruntimeconfig.cache
+C:\Users\FreeComp\Desktop\TechAssessment\TechAssessment\obj\Debug\net5.0\ref\TechAssessment.dll
